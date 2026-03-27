@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Greenware Pi App Starter
 
 A Raspberry Pi 5 starter project for a **local kiosk dashboard** for greenware clay inspection.
@@ -62,9 +61,4 @@ FIREBASE_CREDENTIALS=/absolute/path/to/serviceAccountKey.json
 FIREBASE_PROJECT_ID=your-project-id
 ```
 
-## Notes
-This is a **starter implementation**, not a finished production system.
-It is meant to let your team keep moving while the final model and exact sensor wiring are still unfinished.
-=======
-# Greenware
->>>>>>> 16c8b848cb3b932920c00115b6635c99755ccdb3
+
